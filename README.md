@@ -1,4 +1,4 @@
-# 📊 AI Assistant Usage Analysis (Analysis 2)
+# 📊 AI Assistant Usage Analysis
 
 ## 📌 Overview  
 This project analyzes how students from different levels and disciplines use an AI assistant. It explores patterns in **session length, task preferences, satisfaction, and AI usage trends**. The goal is to highlight **engagement behavior** and **task type popularity**.
